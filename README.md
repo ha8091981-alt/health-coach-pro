@@ -6,16 +6,19 @@
 Health Coach Pro is an AI-powered web application that helps users improve their health by generating personalized diet and fitness plans based on their age, height, weight, gender, activity level, and health goals.
 
 The application calculates BMI, estimates daily calorie requirements, recommends daily water intake, creates personalized diet plans, suggests exercises, stores user history, and allows users to download their diet plan as a PDF.
+
 ---
 
 ## Problem
 
 Many people do not know how many calories they need, how much water they should drink, or what diet and exercise plan is suitable for them. Health Coach Pro solves this problem by providing personalized health guidance in one application.
+
 ---
 
 ## Live Demo
 
 https://health-coach-pro--ha8091981.replit.app
+
 ---
 
 ## Features
